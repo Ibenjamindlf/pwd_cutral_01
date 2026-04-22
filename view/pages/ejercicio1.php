@@ -31,6 +31,9 @@ include_once '../layouts/header.php'
         </div>
     </div>
 </div>
+<!-- IMPORTANTE
+Incluimos la etiqueta script para vincular nuestro validador -->
+<script src="../assets/js/validadorForm.js"></script>
 
 <?php
 include_once '../layouts/footer.php'
